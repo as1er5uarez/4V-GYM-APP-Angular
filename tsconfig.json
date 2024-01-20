@@ -24,6 +24,14 @@
       "dom"
     ]
   },
+  "files": [
+    "src/app/activities/activities.component.ts" // Ajusta la ruta según la ubicación real
+  ],
+  "include": [
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "src/**/*.d.ts"
+  ],
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
